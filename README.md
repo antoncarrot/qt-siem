@@ -1,10 +1,10 @@
 # Cliet-server SIEM
 
-by me + 1 
+by me + [@amiranys](https://github.com/amiranys)
 
 status: finished
 
-### tooling 
+### tooling
 
 ```bash
 qt5
