@@ -1,4 +1,4 @@
-# Cliet-server SIEM
+# Client-server SIEM
 
 by me + [@amiranys](https://github.com/amiranys)
 
